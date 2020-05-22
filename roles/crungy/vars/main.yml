@@ -1,0 +1,7 @@
+---
+packages:
+  - name: git
+  - name: vim
+  - name: docker
+
+home_dir: "/home/pi"
